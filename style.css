@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 300;
+    
+}
+.name-highlight{
+    color:orangered ;
+}
+.half-weight{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-weight img{
+    width: 100%;
+}
+.Top-banner{
+    background-image: url("/images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.first-button{
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 800;
+
+}
+.single-experience{
+    box-shadow: 10px 10px 40px grey; 
+    border-radius: 10px;
+    height: 70%;
+}
+.exp-txt{
+    text-align: center;
+    font-size: 50px;
+    color: gray;
+    margin-bottom: 50px;
+}
+.experience-area{
+    background-image: url("/images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#fullstack1{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#fullstack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,  grey,cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    color: black;
+}
