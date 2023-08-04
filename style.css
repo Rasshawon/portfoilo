@@ -21,7 +21,7 @@ h1{
     width: 100%;
 }
 .Top-banner{
-    background-image: url("/images/top-banner.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
 section{
@@ -48,7 +48,7 @@ section{
     margin-bottom: 50px;
 }
 .experience-area{
-    background-image: url("/images/exp-bg.png");
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
